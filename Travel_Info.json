@@ -1,0 +1,472 @@
+[
+  {
+    "country": "India",
+    "city": "Delhi",
+    "bestTimeToVisit": "Oct -Dec and Jan-Mar",
+    "hotels": [
+      {
+        "name": "Ibis New Delhi International Airport",
+        "photoURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHjURt3zFG7cI3Bsu4pvvtd6H82vH6WxLfNg&usqp=CAU",
+        "weblink": "https://www.tripadvisor.in/Hotel_Review-g304551-d2590189-Reviews-Ibis_New_Delhi_Aerocity-New_Delhi_National_Capital_Territory_of_Delhi.html"
+      },
+      {
+        "name": "Novotel New Delhi International Airport",
+        "photoURL":"https://r1imghtlak.mmtcdn.com/1fb56e48275411e8a6c70a9df65c8753.jpg?&output-quality=75&downsize=910:612&crop=910:612;68,0&output-format=jpg",
+        "weblink": "https://all.accor.com/hotel/7560/index.en.shtml"
+      },
+      {
+        "name": "The Suryaa Hotel New Delhi",
+        "photoURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVX8q_l6WuAe2U4FstRqBpqO7CJLCgErNhUw&usqp=CAU",
+        "weblink": "https://www.agoda.com/en-in/the-suryaa-hotel-new-delhi/hotel/new-delhi-and-ncr-in.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1891440&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2021-10-13&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=cd7e2080-9f1a-13a8-ffbd-6cd759a21e26&isCityHaveAsq=false&los=1&searchrequestid=bddf638b-4d8a-4132-ad62-3a3b9503c1af"
+      },
+      {
+        "name": "Taj Palace",
+        "photoURL":"https://pix8.agoda.net/hotelImages/6501273/0/c609ecee1c122716d898b092f645cd0e.jpg?s=1024x768",
+        "weblink": "https://www.agoda.com/en-in/taj-palace/hotel/new-delhi-and-ncr-in.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1891440&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2021-10-13&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=67f9ecf7-6b97-aab5-2d31-9c57faf8de3a&isCityHaveAsq=false&tspTypes=16&los=1&searchrequestid=bc2d2d3d-aa2b-4975-87ab-9e54ddcce333"
+      },
+      {
+        "name": "Eros Hotel",
+        "photoURL":"https://pix8.agoda.net/hotelImages/281/281812/281812_14101417000022737738.jpg?s=1024x768",
+        "weblink": "https://www.agoda.com/en-in/eros-hotel-new-delhi-nehru-place/hotel/new-delhi-and-ncr-in.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1891440&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2021-10-13&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=0&showReviewSubmissionEntry=false&currencyCode=INR&isFreeOccSearch=false&tag=67f9ecf7-6b97-aab5-2d31-9c57faf8de3a&isCityHaveAsq=false&tspTypes=16&los=1&searchrequestid=ec5bda97-1b4e-4ea2-8067-16f9791f9929"
+      }
+    ],
+    "placestovisit": [
+      {
+        "name": "Qutub Minar",
+        "photurl": "https://imgk.timesnownews.com/story/Qutub_Minar_iStock-179542718_1.jpg?tr=w-1200,h-900",
+        "weblink": "https://www.delhitourism.gov.in/delhitourism/tourist_place/qutab_minar.jsp"
+      },
+      {
+        "name": "AksharDham",
+        "photurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/New_Delhi_Temple.jpg/330px-New_Delhi_Temple.jpg",
+        "weblink": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(New_Delhi)"
+      },
+      {
+        "name": "Red Fort",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFK68CKeFaISjXkqgUMxv5peSVVsfmKXHDZg&usqp=CAU",
+        "weblink": "https://en.wikipedia.org/wiki/Red_Fort"
+      },
+      {
+        "name": "Lotus Temple",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9PrKqVpGIdPNzF_dFEJIiEqdTtBqfOFNZw&usqp=CAU",
+        "weblink": "https://en.wikipedia.org/wiki/Lotus_Temple"
+      },
+      {
+        "name": "India Gate",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6B0003YYDREeHC-lbWqhJs_Kp4iZVWd5geQ&usqp=CAU",
+        "weblink": "https://en.wikipedia.org/wiki/India_Gate"
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "city": "Agra",
+    "bestTimeToVisit": "Oct -Dec and Jan-Mar",
+    "hotels": [
+      {
+        "name": "Tajview",
+        "photoURL":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/19600076.jpg?k=9deb2744b118cbfc89aebd7d2c173545e4c6fb669b8c57a329adddec034b894d&o=&hp=1",
+        "weblink": "https://www.booking.com/hotel/in/taj-resorts.en-gb.html?aid=311984;label=taj-resorts-NI5T30975zOeKySRaGSh8wS162166438077%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-922652055822%3Akwd-185446636%3Alp1007820%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YXORK0YJiVoOxcWODxYDaAA;sid=834d5344332b4f6696eca99b339f5801;dest_id=-2088244;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1633433675;srpvid=46455165d691003c;type=total;ucfs=1&#hotelTmpl"
+      },
+      {
+        "name": "ITC Mughal",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NKI1WXnuls19K5ZSg8Uic__545ZTHdRX3w&usqp=CAU",
+        "weblink": "https://www.itchotels.com/in/en/itcmughal-agra?utm_source=google&utm_medium=cpc&utm_campaign=HQ|ITC|ITC_Mughal|Brand|BMM&gclid=CjwKCAjw7--KBhAMEiwAxfpkWE5EygtyK3me43OoaX6N_8vnaStT0TBgUnnRBxhaW-FggdvXPMHShxoCt-cQAvD_BwE"
+      },
+      {
+        "name": "Crystal Sarovar Premiere",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQih5iO3RyBKSnmds16jkXLcrQBcFZCrDvkTQ&usqp=CAU",
+        "weblink": "https://www.agoda.com/en-in/pages/agoda/default/DestinationSearchResult.aspx?selectedproperty=1061934&city=9641&hid=1061934&site_id=1891440&tag=51e251e7-1631-e251-db1b-10a247b6a81e&device=c&network=g&adid=493631498084&rand=2621874636038584212&expid=&adpos=&aud=kwd-299225893802&gclid=CjwKCAjw7--KBhAMEiwAxfpkWIrxaeHeWB0BNonAxIwYWCZBtquXKFPchVlRfL26T1QGBciPwGoVdxoCGNIQAvD_BwE&checkin=2021-10-13&checkout=2021-10-14&adults=1&childs=0&rooms=1&los=1"
+      },
+      {
+        "name": "Trident",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtRh-ryYF_SVwkJNf-CB8AVN5gfQHRQOY9A&usqp=CAU",
+        "weblink": "https://www.tridenthotels.com/hotels-in-agra?utm_source=google&utm_medium=cpc&utm_campaign=trident_kin_search_brand_agra_10off&gclid=CjwKCAjw7--KBhAMEiwAxfpkWLJY382ShGjh8Kqi4ZGSxt0JcKli-eLoSzo06Q3l-cN0D1yGboPNdxoCE_sQAvD_BwE&gclsrc=aw.ds"
+      },
+      {
+        "name": "Taj Hotel",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgpZoWJWnsEVECymfelWUqIzZkowzDjpNHw&usqp=CAU",
+        "weblink": "https://www.booking.com/hotel/in/taj-hotel-and-convention-centre-agra.en-gb.html?aid=311984;label=radisson-agra-hPnoDBLBrgsDRw%2AFXFVmZgS467158280795%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-922652055822%3Akwd-5447893444%3Alp1007820%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YXORK0YJiVoOxcWODxYDaAA;sid=834d5344332b4f6696eca99b339f5801;dest_id=-2088244;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1633433919;srpvid=c22d51df5bd00072;type=total;ucfs=1&#hotelTmpl"
+      }
+    ],
+    "placestovisit": [
+      {
+        "name": "Taj Mahal",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzafKEUqC0RRnX7rVAClphxOZwQfQ9yFi-hA&usqp=CAU",
+        "weblink": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "name": "Agra Fort",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7R4NVXqoTaz8itPJ6ZvktH0bbvt-zbP23Ug&usqp=CAU",
+        "weblink": "https://en.wikipedia.org/wiki/Agra_Fort"
+      },
+      {
+        "name": "Mehtab Bagh",
+        "photurl": "https://www.planetware.com/wpimages/2019/09/india-agra-top-attractions-mehtab-bagh.jpg",
+        "weblink": "https://en.wikipedia.org/wiki/Mehtab_Bagh"
+      },
+      {
+        "name": "Subhash Emporium",
+        "photurl": "https://www.planetware.com/wpimages/2019/09/india-agra-top-attractions-subhash-emporium.jpg",
+        "weblink": "https://www.tripadvisor.in/Attraction_Review-g297683-d6589836-Reviews-Subhash_Emporium-Agra_Agra_District_Uttar_Pradesh.html"
+      },
+      {
+        "name": "Akbar's Mausoleum",
+        "photurl": "https://www.planetware.com/wpimages/2019/09/india-agra-top-attractions-akbars-mausoleum.jpg",
+        "weblink": "https://en.wikipedia.org/wiki/Akbar%27s_tomb"
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "city": "Mumbai",
+    "bestTimeToVisit": "Oct -Dec and Jan-Mar",
+    "hotels": [
+      {
+        "name": "Sofitel Mumbai BKC",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWEMdkfBoLBLS2AZkGNIG_BY10j932Rm7JKg&usqp=CAU",
+        "weblink": "https://luxuryescapes.com/sg/partner/sofitel-mumbai-bkc-hotel/ba27fe9f-2d14-4385-af60-7479ca24eb57?utm_source=google&utm_medium=cpc&utm_campaign=performance-max-in&gclid=CjwKCAjw7--KBhAMEiwAxfpkWHrjdCurpVLaOyZf8Uo8qbI-ExAnS6dt2UkG7mP-ax9_qlX_qik5fhoCJBsQAvD_BwE"
+      },
+      {
+        "name": "ITC Maratha",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SiIu3EGh0OHNj4izsh29LeGvfMIt34uTaw&usqp=CAU",
+        "weblink": "https://www.booking.com/hotel/in/itc-maratha-mumbai.en-gb.html?aid=306395;label=bombay%2Fandheri-mZ6nZSmqkIFBDNwOCKanmwS154618465835%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-299395366486%3Alp1007820%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=834d5344332b4f6696eca99b339f5801;dest_id=3712;dest_type=district;dist=0;group_adults=2;group_children=0;hapos=4;hpos=4;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1633434009;srpvid=cb80520c45820148;type=total;ucfs=1&#hotelTmpl"
+      },
+      {
+        "name": "The Taj Mahal Palace",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0Jl0ugMIvHmSwcjMQdqLAUIhN241r-fXRg&usqp=CAU",
+        "weblink": "https://www.booking.com/city/in/bombay.en.html?aid=306395;label=bombay-77Jb5mg_9ymCKpx2puokTQS392865644581:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-1602763440:lp1007820:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;ws=&gclid=CjwKCAjw7--KBhAMEiwAxfpkWAWIpMuds42UQQzOd0P7hSLnAZXG6Zc16_XZ5tIZ8Jr6c_mBHFS7cxoCYC0QAvD_BwE"
+      },
+      {
+        "name": "Hotel West Inn",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SW4zQzm3nuHEfTOJaUTX1C6qN6MXQX0how&usqp=CAU",
+        "weblink": "https://www.makemytrip.com/hotels/hotel-listing/?topHtlId=201908211851005469&checkin=date_2&checkout=date_3&locusId=CTBOM&locusType=city&city=CTBOM&country=IN&searchText=Mumbai&roomStayQualifier=2e0e&reference=hotel&type=city&cmp=SEM|D|DH|G|Hname|Hname_0S_NewList-Sep18-v2_Exact|201908211851005469|ETA|Regular|414538331429&s_kwcid=AL!1631!3!414538331429!e!!g!!hotel%20west%20inn%20mumbai&ef_id=CjwKCAjw7--KBhAMEiwAxfpkWFB1kvwZR20ZV9Lo4e5Efpz3fnUN-DlACEsbBncEdL_8-I8KBF-c9BoCX5YQAvD_BwE:G:s"
+      },
+      {
+        "name": "Trident Nariman Point",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCw5xCCULWLd-NnwAFYkJx9-kFimcH02WdA&usqp=CAU",
+        "weblink": "https://www.tridenthotels.com/hotels-in-mumbai-nariman-point?utm_source=google&utm_medium=cpc&utm_campaign=trident_kin_search_brand_nariman_point_10off&&utm_Source=Google&utm_Medium=CPC&utm_Campaign=Nariman_Point_Mumbai_Brand-India&utm_Content=Brand&gclid=CjwKCAjw7--KBhAMEiwAxfpkWJ5aTTOqgt29VuI6VAS3UK9JfHylicAleWONYbQNWy1gfjkmaVQrBBoCU90QAvD_BwE&gclsrc=aw.ds"
+      }
+    ],
+    "placestovisit": [
+      {
+        "name": "Gateway of India",
+        "photurl": "https://www.fabhotels.com/blog/wp-content/uploads/2018/09/Gateway-of-India-1.jpg",
+        "weblink": "https://en.wikipedia.org/wiki/Gateway_of_India"
+      },
+      {
+        "name": "Haji Ali Dargah",
+        "photurl": "https://www.fabhotels.com/blog/wp-content/uploads/2018/09/Haji-Ali.jpg",
+        "weblink": "https://en.wikipedia.org/wiki/Haji_Ali_Dargah"
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "city": "Kolkata",
+    "bestTimeToVisit": "Oct -Dec and Jan-Mar",
+    "hotels": [
+      {
+        "name": "ITC Royal Bengal",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_MKvJ0l3ywyFK3Zr3m0ePZyyxIwKC-_cXfQ&usqp=CAU",
+        "weblink": "https://www.marriott.com/hotels/travel/cculr-itc-royal-bengal-a-luxury-collection-hotel-kolkata/"
+      },
+      {
+        "name": "The Sonnet",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-TNx8dwfEDTwKgWK-Q-QuhXT-XHIco_blQ&usqp=CAU",
+        "weblink": "https://www.makemytrip.com/hotels/hotel-listing/?topHtlId=201007281659038176&checkin=date_2&checkout=date_3&locusId=CTCCU&locusType=city&city=CTCCU&country=IN&searchText=Kolkata&roomStayQualifier=2e0e&reference=hotel&type=city&cmp=SEM|D|DH|G|Hname|Hname_3S_Exact|201007281659038176|ETA|Regular|353087527594&s_kwcid=AL!1631!3!353087527594!e!!g!!the%20sonnet&ef_id=CjwKCAjw7--KBhAMEiwAxfpkWD5lYqQxceY2B5IU3MkgXLVxA75BQc1a_dxHNe6VLWNEbr1Tur-PQBoCa2cQAvD_BwE:G:s&gclid=CjwKCAjw7--KBhAMEiwAxfpkWD5lYqQxceY2B5IU3MkgXLVxA75BQc1a_dxHNe6VLWNEbr1Tur-PQBoCa2cQAvD_BwE"
+      },
+      {
+        "name": "The Park Kolkata",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7C7eikFYkXG8r0r6vLTdke9xvwCc0QPjl5Q&usqp=CAU",
+        "weblink": "https://www.booking.com/hotel/in/the-park-kolkata.en-gb.html?aid=311984;label=the-park-kolkata-7aSmFqXMWh37ijIZWiJRxAS266312227170%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-922652055822%3Akwd-1771031589%3Alp1007820%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YXORK0YJiVoOxcWODxYDaAA;sid=834d5344332b4f6696eca99b339f5801;dest_id=-2092511;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1633434249;srpvid=d59652846b5b017b;type=total;ucfs=1&#hotelTmpl"
+      },
+      {
+        "name": "Ibis Kolkata Rajarhat",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTobWxcHJ4qvVl7bzA3vI22s3txvA-yQ00uGw&usqp=CAU",
+        "weblink": "https://www.makemytrip.com/hotels/hotel-details/?hotelId=201811291816364913&_uCurrency=INR&checkin=date_2&checkout=date_3&city=CTCCU&cmp=SEM%7CD%7CDH%7CG%7CHname%7CHname_3S_NewList-Sep18_Exact%7C201811291816364913%7CETA%7CRegular%7C339065195674&country=IN&ef_id=CjwKCAjw7--KBhAMEiwAxfpkWNY1guFPF6KHzmyHkYeX5loCWdEbX2Q8HPT6hD59oaSEgD0rhUyh7hoCJjcQAvD_BwE%3AG%3As&lat=22.58151&lng=88.46134&locusId=CTCCU&locusType=city&rank=1&reference=hotel&roomStayQualifier=2e0e&s_kwcid=AL%211631%213%21339065195674%21e%21%21g%21%21ibis%20kolkata%20rajarhat%20kolkata&searchText=Kolkata&topHtlId=201811291816364913&type=city&mtkeys=defaultMtkey"
+      },
+      {
+        "name": "Park Prime Kolkata",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2MAktHLz5MbyxAopJ0z3Or8CkGZIQw1IqbQ&usqp=CAU",
+        "weblink": "https://www.makemytrip.com/hotels/hotel-details/?hotelId=200901301315151090&_uCurrency=INR&checkin=date_2&checkout=date_3&city=CTCCU&cmp=SEM%7CD%7CDH%7CG%7CHname%7CHname_4S_Exact%7C200901301315151090%7CETA%7CRegular%7C386343486637&country=IN&ef_id=CjwKCAjw7--KBhAMEiwAxfpkWEOxqM3ASsQacQ2j37NPrl3KrPneQpNToPldGQrLCKXUXqAElRCKNxoCJPcQAvD_BwE%3AG%3As&gclid=CjwKCAjw7--KBhAMEiwAxfpkWEOxqM3ASsQacQ2j37NPrl3KrPneQpNToPldGQrLCKXUXqAElRCKNxoCJPcQAvD_BwE&lat=22.53954&lng=88.35809&locusId=CTCCU&locusType=city&rank=1&reference=hotel&roomStayQualifier=2e0e&s_kwcid=AL%211631%213%21386343486637%21e%21%21g%21%21park%20prime%20kolkata&searchText=Kolkata&topHtlId=200901301315151090&type=city&mtkeys=0-_200901301315151090-_2e0e-_2021-10-07-_2021-10-08-_380025-_76aa467f-f00d-4073-8761-8eaa650d56db-_t-_1633431043517-_HOTEL-_176619-_45000000599-_org%23b2c%23b2c%23mob%23bk2-_.-_990000518007%3AMSE%3A1140%3AMSE%3AINGO-_07-Oct-2021+11%3A59-_EP-_INGO-_.-_133V-_6eH-_2zX-_KOJ-_5XZ-_fE-_.-_q5Y-_8yb-_0-_INR"
+      }
+    ],
+    "placestovisit": [
+      {
+        "name": "Victoria Memorial",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdtx0rTDBbTCy0CF-koP-GyuIIu3TtiPKnw&usqp=CAU",
+        "weblink": "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata"
+      },
+      {
+        "name": "Indian Museum",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiG-ef4-gcvPH6Iqc0gFHewfMnmqeIhlF1YA&usqp=CAU",
+        "weblink": "https://indianmuseumkolkata.org/"
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "city": "Chennai",
+    "bestTimeToVisit": "Oct -Dec and Jan-Mar",
+    "hotels": [
+      {
+        "name": "ITC Grand Chola",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.booking.com/hotel/in/itc-grand-chola.en-gb.html?aid=306395;label=in-chennai-djhlCqm6Mzj9%2AFDeoIBwBQS392710300032%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-29841798048%3Alp1007820%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=834d5344332b4f6696eca99b339f5801"
+      },
+      {
+        "name": "Hilton Chennai",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.hilton.com/en/hotels/maahihi-hilton-chennai/?WT.mc_id=zIMDPDA0APAC1MB2PSH3PPC_Google_search4cid166189267_aid8380927387_me_kkwd-17710709495Brand_Nano6MAAHIHI7en&utm_source=Google&utm_medium=ppc&utm_campaign=paidsearch&campaignid=166189267&adgroupid=8380927387&targetid=kwd-1771070949&gclid=CjwKCAjw7--KBhAMEiwAxfpkWNUG3t8O5wE20maFKqOIxwKx-Aeqc9yMmLQpDxWSliPzT0ICVV7MOhoCXhAQAvD_BwE&gclsrc=aw.ds"
+      },
+      {
+        "name": "Taj Coromandal",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.tajhotels.com/en-in/taj/taj-coromandel-chennai/"
+      },
+      {
+        "name": "The Leela Palace",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.booking.com/hotel/in/leela-palace-chennai.en-gb.html?aid=306395;label=in-chennai-djhlCqm6Mzj9%2AFDeoIBwBQS392710300032%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-29841798048%3Alp1007820%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;sid=834d5344332b4f6696eca99b339f5801"
+      },
+      {
+        "name": "Turyaa Chennai",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.turyaachennai.com/special-offers.html?utm_source=google+ads&utm_medium=search&utm_campaign=brand&gclid=CjwKCAjw7--KBhAMEiwAxfpkWDO28wsvmT45g37xj4MNBSo3uhr3yS9jxQpI7dei9E--y2q8WphgOxoC3pQQAvD_BwE"
+      }
+    ],
+    "placestovisit": [
+      {
+        "name": "Marina Beach",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9sUxMI34mdk_yJnjc1NVcGZe-JUBl9nC1A&usqp=CAU",
+        "weblink": "https://en.wikipedia.org/wiki/Marina_Beach"
+      },
+      {
+        "name": "Government Museum Chennai",
+        "photurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoLhx-UQcIOaiw5zz-5YEguKRye21SH5Hy6w&usqp=CAU",
+        "weblink": "https://en.wikipedia.org/wiki/Government_Museum,_Chennai"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "city": "Berlin",
+    "bestTimeToVisit": "Oct -Dec and Jan-Mar",
+    "hotels": [
+      {
+        "name": "Park Inn by Radisson Berlin Alexanderplatz",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.radissonhotels.com/en-us/hotels/park-inn-berlin-alexanderplatz?facilitatorId=RHGSEM&cid=a:ps+b:ggl+c:emea+i:brand+e:pii+d:cese+r:brt+f:en-US+g:ho+h:DEBERALX+v:cf&gclid=CjwKCAjw7--KBhAMEiwAxfpkWCch2-mRcEAhnsCOhAOjASRH5cxKUEkm2cigbkzRp-AWM1ijf1rq6hoC9HkQAvD_BwE&gclsrc=aw.ds"
+      },
+      {
+        "name": "Adina Apartment Hotel Berlin Hackescher Markt",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.adinahotels.com/en/apartments/berlin-hackescher-markt/"
+      },
+      {
+        "name": "Hotel BIG MAMA Berlin",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.booking.com/hotel/de/big-mama.en-gb.html?aid=311984;label=big-mama-Q9IUjQTNC_2V0TdJOFiCVQS442567509317%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-54200019483%3Alp1007820%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo;sid=834d5344332b4f6696eca99b339f5801;dest_id=-1746443;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1633434923;srpvid=001453d5106700ef;type=total;ucfs=1&#hotelTmpl"
+      },
+      {
+        "name": "AMERON Berlin ABION Spreebogen Waterside",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.booking.com/hotel/de/abion-spreebogen-waterside.en-gb.html?aid=311984;label=hotel-61955-de-sf73QwX3v5gEFL70UjxI4QS466279046284%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-322867090314%3Alp1007820%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo;sid=834d5344332b4f6696eca99b339f5801;dest_id=-1746443;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1633435000;srpvid=60e353fca9bc0160;type=total;ucfs=1&#hotelTmpl"
+      },
+      {
+        "name": "Berlin Gorki Apartments",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.booking.com/hotel/de/gorki-apartments.en-gb.html?aid=356980;label=gog235jc-1DCAsoO0IQZ29ya2ktYXBhcnRtZW50c0gzWANobIgBAZgBCbgBF8gBDNgBA-gBAYgCAagCA7gC3_vwigbAAgHSAiQ0MzBiM2YyNS02ZGEwLTQ2ZDctYmFmYi01MWRmMDAyZGZkY2HYAgTgAgE;sid=834d5344332b4f6696eca99b339f5801;dist=0&group_adults=2&group_children=0&keep_landing=1&no_rooms=1&sb_price_type=total&type=total&"
+      }
+    ],
+    "placestovisit": [
+      {
+        "name": "XYZ",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "XYZ",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "city": "Frankfurt",
+    "bestTimeToVisit": "Oct -Dec and Jan-Mar",
+    "hotels": [
+      {
+        "name": "Scandic Frankfurt Museumsufer",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.hotelamberg.com/?gclid=CjwKCAjw7--KBhAMEiwAxfpkWOHzRzBbmvPEyai-xU0MRTgIOA8N--mQ9sRI4sfNL4jb5S1Hghpf6BoCRfQQAvD_BwE"
+      },
+      {
+        "name": "Hotel Hamburger Hof",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.tripadvisor.in/Hotel_Review-g187337-d199336-Reviews-Hotel_Hamburger_Hof-Frankfurt_Hesse.html"
+      },
+      {
+        "name": "Melia Franfurt City",
+        "photurl": "http://imageurl",
+        "weblink": "https://littlesuites.de/?gclid=CjwKCAjw7--KBhAMEiwAxfpkWLw3O5LRSuIs86x9kESQsTZqx_y9sbfHLEy-D-9Lmbu5QkTQI-AJNxoCA0gQAvD_BwE"
+      },
+      {
+        "name": "Roomers",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.booking.com/hotel/de/roomers.en-gb.html?aid=311984;label=hotel-76961-de-46aGS9Q0Q5sflyDLo0rp8AS397954635245%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-10638588035%3Alp1007820%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo;sid=834d5344332b4f6696eca99b339f5801;dest_id=-1771148;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1633435353;srpvid=f96c54ac8eec00f3;type=total;ucfs=1&#hotelTmpl"
+      },
+      {
+        "name": "Miramer Hotel",
+        "photurl": "http://imageurl",
+        "weblink": "https://www.booking.com/hotel/de/miramarfrankfurt.en-gb.html?aid=311984;label=hotel-de-61468-en-gzeV2vDHHw54438sG6metAS442536495585%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-123163276%3Alp1007820%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo;sid=834d5344332b4f6696eca99b339f5801;dest_id=-1771148;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1633435400;srpvid=170254c3a8b70178;type=total;ucfs=1&#hotelTmpl"
+      }
+    ],
+    "placestovisit": [
+      {
+        "name": "XYZ",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "XYZ",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "city": "Munich",
+    "bestTimeToVisit": "Oct -Dec and Jan-Mar",
+    "hotels": [
+      {
+        "name": "Mandarin Oriental Munich",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Sofital Munich BayerPost",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Marc Munich",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Hotel Metropol",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Hotel Tarbraeu",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      }
+    ],
+    "placestovisit": [
+      {
+        "name": "XYZ",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "XYZ",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "city": "Cologne",
+    "bestTimeToVisit": "Oct -Dec and Jan-Mar",
+    "hotels": [
+      {
+        "name": "URBAN LOFT Cologne",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Hotel Coenllner Hof",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Pullman Cologne",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Classic Hotel Harmonie",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Maritim Hotel Koln",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      }
+    ],
+    "placestovisit": [
+      {
+        "name": "XYZ",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "XYZ",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "city": "Hamburg",
+    "bestTimeToVisit": "Oct -Dec and Jan-Mar",
+    "hotels": [
+      {
+        "name": "Park Inn by Radisson Berlin Alexanderplatz",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Adina Apartment Hotel Berlin Hackescher Markt",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Hotel BIG MAMA Berlin",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "MERON Berlin ABION Spreebogen Waterside",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "Berlin Gorki Apartments",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      }
+    ],
+    "placestovisit": [
+      {
+        "name": "XYZ",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      },
+      {
+        "name": "XYZ",
+        "photurl": "http://imageurl",
+        "weblink": "http://www.abc.com"
+      }
+    ]
+  }
+]
